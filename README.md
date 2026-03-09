@@ -27,7 +27,8 @@ All project files will be stored inside this folder.
 **3. Add an Application Icon**
 
 Download an .ico icon file (for example a gear icon) and place it inside the project folder.
-
+### Download icon
+![Download icon](screenshots/Ss-installing-icon.png)
 Rename the file to:
 
 icon.ico
