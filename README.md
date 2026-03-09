@@ -3,6 +3,7 @@ Educational cybersecurity project demonstrating keyboard input logging in Python
 
 
 **Project Setup**
+
 **1. Install Python**
 
 Download and install Python 3.x.
