@@ -88,10 +88,10 @@ dist
 
 Inside the dist folder you will find the generated executable file.
 
-Educational Purpose
+**Educational Purpose**
 This project demonstrates how keyboard input monitoring works and why it can be dangerous if misused.
 
-Understanding these techniques helps cybersecurity professionals:
+**Understanding these techniques helps cybersecurity professionals:**
 
 Detect malicious software
 Protect sensitive information
