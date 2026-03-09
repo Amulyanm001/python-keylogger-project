@@ -29,6 +29,7 @@ All project files will be stored inside this folder.
 Download an .ico icon file (for example a gear icon) and place it inside the project folder.
 ### Download icon
 ![Download icon](screenshots/Ss-installing-icon.png)
+
 Rename the file to:
 
 icon.ico
@@ -56,6 +57,24 @@ This library allows Python programs to detect keyboard input events for educatio
 Install PyInstaller, which allows converting Python scripts into standalone executable files.
 
 pip install pyinstaller
+
+**7. Create Email App Password (for testing email notifications)**
+
+If you want the program to send test notifications to your own email, you can create an App Password in your Google account.
+
+Steps:
+Open Google Account settings
+Go to Security
+Enable Two-Step Verification
+Find App Passwords
+Create a new app password (for example name it projectkeys)
+Copy the generated password
+
+This password can be used by the program to send test emails from your account.
+
+
+### Getting Passkeys
+![Creating App Password](screenshot/creating-passkeys.png)
 
 **7. Create the Python File**
 
