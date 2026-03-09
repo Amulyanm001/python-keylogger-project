@@ -8,7 +8,7 @@ Educational cybersecurity project demonstrating keyboard input logging in Python
 
 Download and install Python 3.x.
 ### Python Installation
-![Python Install](Ss-python-install.png)
+![Python Install](screenshots/Ss-python-install.png)
 
 During installation, make sure to enable the option:
 
